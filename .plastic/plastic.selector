@@ -1,0 +1,4 @@
+repository "3D Reface@wechat_os_qy04abfdkzjmowvkyn9qc6pgu@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
